@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/arya/PBP/PBP Week 1/shopping_list/env/bin/python3.11" "$0" "$@"
+'''exec' "/Users/arya/PBP/Shopping List/shopping_list/env/bin/python3.11" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re

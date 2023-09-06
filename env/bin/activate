@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/arya/PBP/PBP Week 1/shopping_list/env"
+VIRTUAL_ENV="/Users/arya/PBP/Shopping List/shopping_list/env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
